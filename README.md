@@ -4,24 +4,29 @@ Este projeto é uma aplicação simples em Java que simula a criação de uma co
 
 O usuário é solicitado a fornecer informações como o número da conta, agência, nome do titular e saldo inicial. Após fornecer essas informações, uma mensagem de confirmação é exibida com os detalhes da conta criada.
 
+## 💻 Tecnologia utilizada no projeto:
+<div>
+   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+</div>
+
 ## 🔧 Funcionalidades
 
-- Solicitação de informações ao usuário: número da conta, agência, nome e saldo.
+- Solicitação de informações ao usuário: número da conta, agência, nome e saldo;
 - Exibição de uma mensagem de boas-vindas com os detalhes da conta.
 
 
 ## ⚙ Requisitos
 
-- JDK 8 ou superior
-- IDE ou editor de texto para rodar o código Java
-- Terminal ou console para executar o programa
+- JDK 8 ou superior;
+- IDE ou editor de texto para rodar o código Java;
+- Terminal ou console para executar o programa.
 
 ## ☕ Versão do Java
 
 Este projeto utiliza a versão 22 do Java.
 
 
-## 💻 Como Executar
+## 👨‍🔧 Como Executar
 
 1. **Clone o repositório:**
    ```sh
@@ -74,13 +79,9 @@ Olá João, obrigado por criar uma conta em nosso banco, sua agência é 5678, c
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma ``issue`` ou enviar um ``pull request``.
 
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
-
 ## 📖 Informações do Curso
 
-Este projeto faz parte do curso "Aprendendo a Sintaxe Java" oferecido pelo Bootcamp "Coding Future Gft: Desenvolvimento Java com IA" da DIO
+Este projeto faz parte do curso **"Simulando Uma Conta Bancária Através Do Terminal/Console"** oferecido pelo Bootcamp **"Coding The Future Claro: Java com Spring Boot"** da **DIO**.
 
 ## 👨‍💻 Expert
 
