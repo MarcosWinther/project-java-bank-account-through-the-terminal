@@ -83,6 +83,8 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma ``issue`` ou
 
 Este projeto faz parte do curso **"Simulando Uma Conta Bancária Através Do Terminal/Console"** oferecido pelo Bootcamp **"Coding The Future Claro: Java com Spring Boot"** da **DIO**.
 
+>- [Repositório do desafio](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe) proposto pelo professor **Gleyson Sampaio**.
+
 ## 👨‍💻 Expert
 
 <p>
